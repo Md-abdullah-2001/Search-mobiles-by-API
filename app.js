@@ -118,4 +118,4 @@ const showDetail = (details) => {
   `;
 };
 
-AllData("apple");
+AllData("");
